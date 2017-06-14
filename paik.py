@@ -2,14 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 import pandas as pd
 
-apikey1 = 'c23ddc34b885f710026c4fa1b72fd25b'
-apikey2 = 'b63169966f69aeb0a023bbf18c9f471c'
-apikey3 = '8c7f6e9c86555619ec8a6b913f401d4b'
-apikey4 = "ee6747c625d134736e99ae8c52ca301f"
-apikey5 = 'f130df17bfba070ada0a8018b7903ca0'
-apikey6 = '0dab17d2508a2d36719dc2ecb9d8e74c'
-
-
+# need to get apikey 
 
 # Full address 가 아니므로 다음 API를 이용해서 Full address로 바꾸는 작업을 해주는 함수
 def toFullAdd(df_paik):
