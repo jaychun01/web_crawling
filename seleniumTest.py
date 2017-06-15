@@ -44,6 +44,7 @@ def instahash(id):
             print("")
             print("")
         except :
+            # when loop meets the last picture
             break
         num += 1
 
