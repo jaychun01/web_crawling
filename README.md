@@ -13,3 +13,4 @@
 9. nba 데이터 
 10. google image crawling
 11. 스타벅스 
+12. 네이버 영화 평점 
